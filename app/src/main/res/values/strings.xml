@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AddressFinder</string>
+
+    <string name="home_title">Bem-vindo ao Address Finder!</string>
+    <string name="home_text_1">Através deste aplicativo, é possível consultar \n um endereço com base no CEP informado.</string>
+    <string name="home_text_2">Clique no botão abaixo para \n acessar a tela de busca!</string>
+    <string name="home_button">BUSCAR POR CEP</string>
+    <string name="search_title">Busca por CEP</string>
+    <string name="search_text">Insira o CEP no campo abaixo para \n consultar o endereço completo.</string>
+    <string name="search_label_zip_code">Busca por CEP</string>
+    <string name="search_label_address">Logradouro</string>
+    <string name="search_label_neighborhood">Bairro</string>
+    <string name="search_label_city">Cidade</string>
+    <string name="search_label_state">Estado</string>
+    <string name="search_button">VOLTAR</string>
+</resources>
